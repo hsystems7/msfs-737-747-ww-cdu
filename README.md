@@ -11,6 +11,7 @@
 
 ## Tested with
 
+MSFS 2024 Version: 1.4.20.0
 Mobiflight Version: 10.5.3.7
 
 | CDU | MSFS 2024 |
