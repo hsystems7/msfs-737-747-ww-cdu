@@ -1,0 +1,24 @@
+{
+  "content": [
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/airliners/wtb737_max_8/cdu/dm_cdu.js",
+      "size": 9404,
+      "date": 133955366600073773
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/airliners/wtb737_max_8/cdu/wtb38m_cdu.html",
+      "size": 638,
+      "date": 133927047000000000
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/airliners/wtb747_8iv2/cdu/dm_cdu.js",
+      "size": 9404,
+      "date": 133955366583544761
+    },
+    {
+      "path": "html_ui/Pages/VCockpit/Instruments/airliners/wtb747_8iv2/cdu/wtb748_cdu.html",
+      "size": 622,
+      "date": 133953080937712224
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Asobo B737/B747 WW CDU Plugin",
+  "package_version": "0.1.0",
+  "content_type": "MISC",
+  "minimum_game_version": "1.14.0",
+  "dependencies": [],
+  "manufacturer": "",
+  "creator": "hsystems7",
+  "release_notes": {
+    "neutral": {
+      "OlderHistory": "",
+      "LastUpdate": ""
+    }
+  },
+  "package_order_hint": "GENERIC_AIRPORT_PATCH"
+}
